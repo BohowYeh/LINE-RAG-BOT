@@ -13,5 +13,6 @@
 2.能詢問的產品資訊(圖片中以詢問顯卡為例)
 
 3.可以簡略介紹產品，如果需要詳細規格，機器人會提供其規格或給予使用者該產品的官方網站
-![image](https://github.com/BohowYeh/LINE-RAG-ROBOT/assets/151061264/db4bd7ac-82c7-48db-9fbd-cf7a63c69c1b)
+![image](https://github.com/BohowYeh/LINE-RAG-ROBOT/assets/151061264/5e509d08-47b0-44e8-986e-5cbaf6936a09)
+
 
